@@ -47,14 +47,17 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 - Data description
 
 |Data|Date|Vehicle|
-|:------:|:----:|:----:|
+|:------:|:-----:|:-----:|
 |Seoul, Republic of Korea (private)|2022-04-08|Taxi|
 
 
 ### New York - [New York visualization](https://hnu209.github.io/NewYork-visualization/) | [New York report](https://hnu209.github.io/NewYork-report/)
-- Data description:
-    - Data : [NewYork](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data), [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)   
-    - Date : 2016-04-08   
+- Data description
+
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|[NewYork](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data), [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |2016-04-08|Taxi|
+
 ### Chicago - [Chicago visualization](https://hnu209.github.io/Chicago-visualization/)   
 - Data description:   
     - Data : [Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)   
