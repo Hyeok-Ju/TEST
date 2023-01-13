@@ -45,28 +45,28 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 (The first loading could be slow due to the process of loading data from github pages)
 - **Data description**
 
-|Data|Date|
-|:------:|:-----:|
-|Seoul, Republic of Korea (private)|2022-04-08|
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|Seoul, Republic of Korea (private)|2022-04-08|Taxi|
 
 
 ### New York - [New York visualization](https://hnu209.github.io/NewYork-visualization/) | [New York report](https://hnu209.github.io/NewYork-report/)
 - **Data description**
 
-|Data|Date|
-|:------:|:-----:|
-|[NewYork](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data), [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |2016-04-08|
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|[NewYork](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data), [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |2016-04-08|Taxi|
 
 ### Chicago - [Chicago visualization](https://hnu209.github.io/Chicago-visualization/)   
 - **Data description**
 
-|Data|Date|
-|:------:|:-----:|
-|[Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | 2019-07-19 |
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|[Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | 2019-07-19 | Taxi |
   
 ### Jeju - [Jeju visualization](https://hnu209.github.io/Jeju-delivery-management-system/)
 - **Data description**
 
-|Data|Date|
-|:------:|:-----:|
-|Jeju-do, Republic of Korea (private) | 2022-04-01 |
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|Jeju-do, Republic of Korea (private) | 2022-04-01 | Truck |
