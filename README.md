@@ -74,7 +74,7 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 
 ### Daejeon & Sejong - [visualization](https://hnu209.github.io/MaaS/)
 - **Data description**
-- 
+
 |Data|Date|Vehicle|
 |:------:|:-----:|:-----:|
 |Daejeon & Sejong, Republic of Korea (private) | 2022-10-25 | Taxi, Bus, Bike |
