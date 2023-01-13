@@ -85,4 +85,4 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 
 |Data|Date|Vehicle|
 |:------:|:-----:|:-----:|
-|Yeoui-do, Yeongdeungpo-gu, Seoul, Republic of Korea (private) | 2022-10-25 | Car |
+|Yeoui-do, Yeongdeungpo-gu, Seoul, Republic of Korea (private) | 2022-12-13 | Car |
