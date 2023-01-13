@@ -40,7 +40,7 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 ![architecture](https://user-images.githubusercontent.com/70340230/187696367-cd93a438-1f86-4e41-9ee7-f0486584057f.png)
 
 ## Implementation of DTUMOS
-### Seoul - [Seoul visualization](https://hnu209.github.io/Seoul-visualization/) | [Seoul report](https://hnu209.github.io/Seoul-report/)
+### Seoul - [visualization](https://hnu209.github.io/Seoul-visualization/) | [report](https://hnu209.github.io/Seoul-report/)
 
 (The first loading could be slow due to the process of loading data from github pages)
 - **Data description**
@@ -50,23 +50,39 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 |Seoul, Republic of Korea (private)|2022-04-08|Taxi|
 
 
-### New York - [New York visualization](https://hnu209.github.io/NewYork-visualization/) | [New York report](https://hnu209.github.io/NewYork-report/)
+### New York - [visualization](https://hnu209.github.io/NewYork-visualization/) | [report](https://hnu209.github.io/NewYork-report/)
 - **Data description**
 
 |Data|Date|Vehicle|
 |:------:|:-----:|:-----:|
 |[NewYork](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data), [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |2016-04-08|Taxi|
 
-### Chicago - [Chicago visualization](https://hnu209.github.io/Chicago-visualization/)   
+### Chicago - [visualization](https://hnu209.github.io/Chicago-visualization/)   
 - **Data description**
 
 |Data|Date|Vehicle|
 |:------:|:-----:|:-----:|
 |[Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) | 2019-07-19 | Taxi |
   
-### Jeju - [Jeju visualization](https://hnu209.github.io/Jeju-delivery-management-system/)
+### Jeju - [visualization](https://hnu209.github.io/Jeju-delivery-management-system/)
 - **Data description**
 
 |Data|Date|Vehicle|
 |:------:|:-----:|:-----:|
 |Jeju-do, Republic of Korea (private) | 2022-04-01 | Truck |
+
+
+### Daejeon & Sejong - [visualization](https://hnu209.github.io/MaaS/)
+- **Data description**
+- 
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|Daejeon & Sejong, Republic of Korea (private) | 2022-10-25 | Taxi, Bus, Bike |
+
+
+### Yeoui-do, Yeongdeungpo-gu, Seoul - [visualization](https://hnu209.github.io/Pickup_Delivery_Simulation/)
+- **Data description**
+
+|Data|Date|Vehicle|
+|:------:|:-----:|:-----:|
+|Yeoui-do, Yeongdeungpo-gu, Seoul, Republic of Korea (private) | 2022-10-25 | Car |
