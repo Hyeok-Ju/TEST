@@ -47,7 +47,7 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 - Data description
 
 |Data|Date|Vehicle|
-|------|---|---|
+|:------:|:---:|:---:|
 |Seoul, Republic of Korea (private)|2022-04-08|Taxi|
 
 
