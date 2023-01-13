@@ -44,7 +44,8 @@ The framework consists of four parts: 1) Data; 2) Deep learning and Machine lear
 
 (The first loading could be slow due to the process of loading data from github pages)
 
-- Data description: 
+- Data description
+
 |Data|Date|Vehicle|
 |------|---|---|
 |Seoul, Republic of Korea (private)|2022-04-08|Taxi|
